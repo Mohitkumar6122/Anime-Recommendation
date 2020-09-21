@@ -1,6 +1,8 @@
 # Anime-Recommendation
 
-Building a  anime recommendation system based only on user viewing history.
+Building anime recommendation system based only on user viewing history, Genre and other features.
+
+![table](https://wallpapercave.com/wp/wp5257135.jpg)
 
 ## DATASET
 This dataset is taken from : https://www.kaggle.com/CooperUnion/anime-recommendations-database?select=anime.csv <br/>
@@ -8,7 +10,8 @@ This dataset is taken from : https://www.kaggle.com/CooperUnion/anime-recommenda
 
 This data set contains information on user preference data from 73,516 users on 12,294 anime. Each user is able to add anime to their completed list and give it a rating and this data set is a compilation of those ratings.
 
-Content
+## Content
+
 ### Anime.csv
 
 1. anime_id - myanimelist.net's unique id identifying an anime.
